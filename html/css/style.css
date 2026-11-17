@@ -1,0 +1,81 @@
+#titre {
+    color: rgb(250, 222, 136);
+    text-align:center
+    
+}
+
+.lets {
+    text-align: center;
+    border-bottom: 3px solid rgb(255, 255, 255);
+    padding-bottom: 5px;
+}
+
+.titre {
+    color: rgb(255, 255, 255);
+    
+}
+
+.lignegr {
+    border-bottom: 3px solid rgb(255, 255, 255);
+    padding-bottom: 15px;
+}
+.police {
+    font-family:Arial, Helvetica, sans-serif
+}
+
+
+.decale {
+    text-align: center;
+    
+}
+
+.experienceprofessionnel {
+    color: rgb(250, 222, 136);
+    line-height: 0.20;
+    text-align: center;
+}
+
+
+.ma-boite {
+    line-height: 0.20;
+    border-bottom: 3px solid rgb(255, 255, 255);
+    padding-bottom: 5px;
+}
+
+.texteline {
+    text-align: center;
+}
+
+.space {
+    text-align: center;
+}
+
+.ok {
+    text-align: center;
+    
+}
+
+.background-color {
+    color: rgb(250, 222, 136)
+}
+
+.interligne {
+    line-height: 1;
+}
+
+.titre2 {
+    color: rgb(255, 255, 255);
+}
+.border {
+    width: 500px;
+    height: 840px;
+    border: 20px solid rgb(250, 216, 77);
+    padding: 10px;
+    background-color: rgb(13, 205, 205);
+}
+
+.rectangle {
+    width: 500px;
+    height: 200px;
+    background-color: brown;
+}
