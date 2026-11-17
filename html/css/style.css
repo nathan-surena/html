@@ -68,7 +68,7 @@
 }
 .border {
     width: 500px;
-    height: 1000px;
+    height: 1300px;
     border: 20px solid rgb(250, 216, 77);
     padding: 10px;
     background-color: rgb(13, 205, 205);
@@ -86,3 +86,15 @@
     background-color: blue;
     border-radius: 50%;
 }
+
+a:hover {
+    color: red;
+}
+
+
+input:focus {
+    border: 1px solid blue;
+    outline: none;
+    background-color: rgb(71, 204, 80);
+}
+
