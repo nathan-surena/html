@@ -68,7 +68,7 @@
 }
 .border {
     width: 500px;
-    height: 840px;
+    height: 1000px;
     border: 20px solid rgb(250, 216, 77);
     padding: 10px;
     background-color: rgb(13, 205, 205);
@@ -76,6 +76,6 @@
 
 .rectangle {
     width: 500px;
-    height: 200px;
+    height: 100px;
     background-color: brown;
 }
